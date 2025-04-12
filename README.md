@@ -54,16 +54,9 @@ plot_tree(dt,feature_names=x.columns,class_names=['salary','left'],filled=True)
 plt.show()
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/c5cf7f02-0bb3-4aa4-9026-9aa72337886c)
-![image](https://github.com/user-attachments/assets/33d878ae-bd41-491e-a40c-3c241d10af9f)
-![image](https://github.com/user-attachments/assets/5b15c883-34c4-4794-babd-fae148c1e3f9)
-![image](https://github.com/user-attachments/assets/b89ff5b3-9d8c-42cf-b3d5-8a0d599796df)
-![image](https://github.com/user-attachments/assets/92401da6-b992-42c1-8b29-19f650805f36)
-![image](https://github.com/user-attachments/assets/531d83e3-b337-45fe-86f5-2b40be83854c)
-![image](https://github.com/user-attachments/assets/10b43da0-7974-4631-9f6f-589431485723)
-![image](https://github.com/user-attachments/assets/86267cc6-e573-4762-b3a9-13177e59d9f1)
-![image](https://github.com/user-attachments/assets/703c80e0-8414-4b7c-808b-09d289a100ab)
-![image](https://github.com/user-attachments/assets/aaa5099c-634d-4d63-b5f9-2a718d4b79ec)
+![image](https://github.com/user-attachments/assets/c165ff33-9904-431b-898b-ec091a7ec4d3)
+![image](https://github.com/user-attachments/assets/a7e8904b-6207-4840-beb5-da522130333f)
+![image](https://github.com/user-attachments/assets/662e467f-cf8c-4bb2-a0da-2ecaa70d070b)
 
 
 
